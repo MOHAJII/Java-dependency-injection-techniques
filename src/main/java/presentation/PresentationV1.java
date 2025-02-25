@@ -2,11 +2,9 @@ package presentation;
 
 import dao.DaoImplV1;
 import dao.IDao;
-import extern.DaoImplV2;
-import metier.IMetier;
 import metier.MetierImpl;
 
-public class presentationV1 {
+public class PresentationV1 {
     // Version par instanciation statique via le setter et via le constructeur
     public static void main(String[] args) {
 
