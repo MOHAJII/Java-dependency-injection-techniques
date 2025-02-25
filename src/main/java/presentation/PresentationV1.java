@@ -1,3 +1,7 @@
+
+// To use This class please delete the annotations from the classes in the dao package and metier package
+
+
 //package presentation;
 //
 //import dao.DaoImplV1;
@@ -20,3 +24,4 @@
 //        System.out.println("**************************************************");
 //    }
 //}
+
