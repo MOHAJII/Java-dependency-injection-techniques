@@ -1,5 +1,8 @@
 # Dependency Injection in Java: A Practical Exploration
 
+![Description](captures/dependency-injection.png)
+
+
 ## Introduction
 
 Dependency Injection (DI) is a fundamental principle of software engineering that promotes loose coupling between components. It allows better code maintainability, testability, and scalability by shifting the responsibility of object creation from the dependent class to an external entity.
